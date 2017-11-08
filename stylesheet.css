@@ -1,16 +1,18 @@
-#container {
+.container {
 font: 12px Rockwell, Courier;
+
+}
+.body {
 margin: 10px;
 border: 5px; #A9A9A9
 }
-
-#date {
+.date {
 font-weight: bold;
 float:right;
 }
 
 
-#professional experience {
+.professional experience {
 
 font-weight: bold
 font: 16px
