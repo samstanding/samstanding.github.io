@@ -1,0 +1,57 @@
+body {
+   font-family:'Rockwell',calibri;
+    font-weight:300;
+}
+
+.container {
+    width:800px;
+	margin:20px auto 20px;
+    
+}
+header {
+    padding:20px;
+    
+}
+header .row {
+    display:flex;
+    align-items:center;
+}
+header h1 {
+    font-weight:1000;
+    margin: 0;
+
+}
+
+.jumbotron{
+    display:flex;
+    align-items:top;
+    justify-content: center;
+    background-image: url('http://dataduppedings.no/subcube/Colour_Gradients/Black-White_256x256.png');
+    background-size:contain;
+    background-color:white;
+    height:300px;
+    
+}
+
+.date {
+    font-weight:bold;
+    float:right;
+}
+
+
+h4 {
+    font-weight:bold;
+    margin:2px;
+    
+}
+h3 {
+    border-bottom:1px solid black;
+}
+
+h2 {
+    color:white;
+    font-size: 56px;
+    margin-top: 5px;
+}
+
+
