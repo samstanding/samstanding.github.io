@@ -1,5 +1,5 @@
 body {
-   font-family:'Rockwell',calibri;
+   font-family:'Rockwell','calibri';
     font-weight:300;
 }
 
@@ -7,19 +7,6 @@ body {
     width:800px;
 	margin:20px auto 20px;
     
-}
-header {
-    padding:20px;
-    
-}
-header .row {
-    display:flex;
-    align-items:center;
-}
-header h1 {
-    font-weight:1000;
-    margin: 0;
-
 }
 
 .jumbotron{
